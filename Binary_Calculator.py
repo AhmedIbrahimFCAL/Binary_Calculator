@@ -170,7 +170,7 @@ def multi(num1,num2):
 
 ###Main Program.
 #Display Minu1.
-# We have symbolized the intrance latter by sel,sel2.
+# We have symbolized the input latter by sel,sel2.
 while True:
     sel = input("\n\n**Binary Calculator**\n  A) Insert new numbers\n  B) Exit\nPlease, select A or B : ").strip()
     while sel.upper()!="A" and sel.upper()!="B":
@@ -218,4 +218,4 @@ while True:
             print(num1,"*",num2,"=",multi(num1, num2))
 
 print("\nThanks for using my program. See You Soon!")
-# Thanks for reading my code.
+# Thanks for reading my code. See You Soon!
